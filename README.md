@@ -188,7 +188,7 @@ Operating systems and versions tested with the project:
 After installing the required software, the quickest way to get building is to clone this repository.
 
 ```shell
-git clone https://github.com/ajschroeder/packer-examples-for-proxmox.git
+git clone https://github.com/fabricesemti80/infra-packer-home-proxmox.git
 cd packer-examples-for-proxmox
 ```
 
