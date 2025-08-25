@@ -189,7 +189,7 @@ After installing the required software, the quickest way to get building is to c
 
 ```shell
 git clone https://github.com/fabricesemti80/infra-packer-home-proxmox.git
-cd packer-examples-for-proxmox
+cd infra-packer-home-proxmox
 ```
 
 The following table describes the directory structure.
