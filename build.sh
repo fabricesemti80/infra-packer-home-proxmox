@@ -830,7 +830,7 @@ until [ "$selection" = "0" ]; do
   echo "       9  -  OpenSUSE Leap 15.5"
   echo "       10 -  Oracle Linux 9"
   echo "       11 -  Oracle Linux 8"
-  echo "       12 -  Rocky Linux 10"
+  echo  -e "       12 -  \e[32mRocky Linux 10\e[0m"
   echo "       13 -  Rocky Linux 9"
   echo "       14 -  Rocky Linux 8"
   echo -e "       15 -  \e[32mUbuntu Server 24.04 LTS\e[0m"
