@@ -833,7 +833,7 @@ until [ "$selection" = "0" ]; do
   echo "       12 -  Rocky Linux 10"
   echo "       13 -  Rocky Linux 9"
   echo "       14 -  Rocky Linux 8"
-  echo "       15 -  Ubuntu Server 24.04 LTS"
+  echo -e "       15 -  \e[32mUbuntu Server 24.04 LTS\e[0m"
   echo "       16 -  Ubuntu Server 22.04 LTS"
   echo "       17 -  Ubuntu Server 20.04 LTS"
   echo "       18 -  Windows 11 - All"
